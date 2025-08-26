@@ -12,12 +12,6 @@ The notebook explores datasets using Python libraries to perform descriptive sta
 - Matplotlib / Seaborn (for visualization)
 
 ## 📂 Repository Structure
+- `Project 1` →  Dataset 
 - `BRASIL_Project.ipynb` → Main notebook containing the analysis.
 - `.gitignore` → File to exclude unnecessary files from version control.
-
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/juliangabo-cpu/Data-Analysis.git
-   cd Data-Analysis
-                        
